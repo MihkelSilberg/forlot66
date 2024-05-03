@@ -17,11 +17,11 @@
             {
                 if (y > x)
                 {
-                    Console.WriteLine("y on suurem kui x")
+                    Console.WriteLine("y on suurem kui x");
                 }
                 else
                 {
-                    Console.WriteLine("x on väiksem kui y")
+                    Console.WriteLine("x on väiksem kui y");
                 }
             }
         }
